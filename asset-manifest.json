@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Agenda_Estudos_Deploy/static/css/main.5716a581.css",
+    "main.js": "/Agenda_Estudos_Deploy/static/js/main.44f3ddb4.js",
+    "static/media/check-mark.svg": "/Agenda_Estudos_Deploy/static/media/check-mark.138356fcb47be7050b887d74eda1ee90.svg",
+    "index.html": "/Agenda_Estudos_Deploy/index.html",
+    "main.5716a581.css.map": "/Agenda_Estudos_Deploy/static/css/main.5716a581.css.map",
+    "main.44f3ddb4.js.map": "/Agenda_Estudos_Deploy/static/js/main.44f3ddb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5716a581.css",
+    "static/js/main.44f3ddb4.js"
+  ]
+}
